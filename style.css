@@ -1,4 +1,10 @@
 
 body {
-    background: blue;
+    background: lightpink;
+  }
+  a:link{
+    color: blue;
+}
+  a:visited{
+    color: purple;
   }
